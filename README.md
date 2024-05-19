@@ -22,6 +22,7 @@ Backtrack exception master - /mnt/stppeedp/ppeedp/raw/eag/ey/test_cbi_reference_
 
 ## Efforts Estimation :
 Effort estimation without copilot:  4 days 
+
 Effort estimation with copilot:  2 days
 
 ## Eexecution metrics :
